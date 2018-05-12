@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34954'
     url: http://www.gutenberg.org/2009/agents/34954
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31003#The-History-and-Antiquities-of-Horsham
 gutenberg_issued: '2010-01-17'
 gutenberg_type: Text
 identifiers:
